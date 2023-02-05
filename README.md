@@ -5,6 +5,11 @@ Gosto de andar de moto nas horas vagas. 🏍\
 Tenho 2 passaros, e 3 gatos. Todos adotados.
 * 🐦🐦🐈🐈🐈 *
 
+- 🔭 I’m currently working on IoT Enterprise
+- 🌱 I’m currently learning C++
+- 💬 Ask me about anything
+- 📫 How to reach me: samuel.huarachi@gmail.com
+
 
 <!--
 **samuelhuarachi/samuelhuarachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
