@@ -1,6 +1,7 @@
-### Olá
+### Hi There
 
-Meu nome é Samuel Gomes, e atualmente sou tech lead em uma empresa de IoT
+Meu nome é Samuel Gomes, e atualmente trabalho com aplicações web na liguage javascript (node), e para banco de dados, utilizo o mongo.
+
 
 <!--
 **samuelhuarachi/samuelhuarachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
