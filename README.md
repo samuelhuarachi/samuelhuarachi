@@ -1,6 +1,6 @@
 ### Hi There 🦁
 
-Meu nome é Samuel Gomes, e atualmente trabalho com aplicações web na liguage javascript (node), e para banco de dados, utilizo o mongo.\
+Meu nome é Samuel Gomes, e atualmente trabalho com aplicações web na liguagem javascript (node), e para banco de dados, utilizo o mongo.\
 Gosto de andar de moto nas horas vagas. 🏍\
 Tenho 2 passaros, e 3 gatos. Todos adotados. 🐦🐦🐈🐈🐈 
 
