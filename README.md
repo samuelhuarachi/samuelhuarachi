@@ -1,12 +1,6 @@
-### Olá 😃
+### Olá
 
-Meu nome é Samuel Gomes, 35 anos, moro em Campinas/SP e sou Desenvolvedor desde 2008. Atualmente, Product Owner do maior banco da américa latina.
-Sou casado 👫 e temos uma pinscher 🐾 que chama Paçoca.
-Curto séries 🎥, podcasts 🎧 e nas horas vagas me aventuro cuidando de uma horta 🌱 e cozinhando :fried_egg:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-fu7b33/)](https://www.linkedin.com/in/leonardo-fuz37b33/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/ddddd)](https://instagram.com/ddd)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ddddd)](https://twitter.com/ddddd)
+Meu nome é Samuel Gomes, e atualmente sou tech lead em uma empresa de IoT
 
 <!--
 **samuelhuarachi/samuelhuarachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
