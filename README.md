@@ -1,8 +1,4 @@
-### Hi There 🦁
-
-Meu nome é Samuel Gomes, e atualmente trabalho com aplicações web na liguagem javascript (node), e para banco de dados, utilizo o mongo.\
-Gosto de andar de moto nas horas vagas. 🏍\
-Tenho 2 passaros, e 3 gatos. Todos adotados. 🐦🐦🐈🐈🐈 
+### Hi There
 
 - 🔭 I’m currently working on IoT Enterprise
 - 🌱 I’m currently learning C++
