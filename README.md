@@ -1,9 +1,7 @@
-### Hi There
+### C++
 
-- 🔭 I’m currently working on IoT Enterprise
-- 🌱 I’m currently learning C++
-- 💬 Ask me about anything
-- 📫 How to reach me: samuel.huarachi@gmail.com
+- Game developer.
+- 📫 How to reach me: samuel.huarachi@gmail.com.
 
 
 <!--
