@@ -1,6 +1,6 @@
-### C++
+### Node and <3 C++
 
-- Game developer.
+- Web and Game developer.
 - 📫 How to reach me: samuel.huarachi@gmail.com.
 
 
